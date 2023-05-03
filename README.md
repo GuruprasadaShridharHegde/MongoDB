@@ -1,5 +1,5 @@
 # MongoDB
-What is MongoDB? It Connects specific instance to MongoD
+What is MongoDB? It Connects specific instance to MongoD.
 
 What is Mongo ?
 
